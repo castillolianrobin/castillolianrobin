@@ -60,7 +60,7 @@ I am a software developer with solid experience in creating maintainable, scalab
 <br>
 <br>
 
-> **Short Term Goal** : For now, I am mastering the Front end development until I can completely handle enterprise grade UI that adheres to modern standard. 
+> **Short Term Goal** : For now, I am mastering the front end development until I can completely handle enterprise grade UI that adheres to modern standard. 
 
 <br>
 
