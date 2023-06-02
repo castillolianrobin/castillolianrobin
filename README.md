@@ -54,7 +54,7 @@ I am a software developer with solid experience in creating maintainable, scalab
 
 
 <!-- Sample Pokedex -->
-- <img width="20" src="https://cdn-icons-png.flaticon.com/512/188/188918.png" alt="Express logo"> [Express Boilerplate](https://sample-pokedex.netlify.app/) - Simple Pokedex  ( Vue 3 + Typescript )
+- <img width="20" src="https://cdn-icons-png.flaticon.com/512/188/188918.png" alt="Express logo"> [Sample Pokedex](https://sample-pokedex.netlify.app/) - Simple Pokedex UI with 3rd Party API ( Vue 3 + Typescript )
 
 
 <br>
