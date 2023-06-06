@@ -21,7 +21,7 @@ I am a software developer with solid experience in building maintainable, scalab
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-8869F2?style=flat-square&logo=vite&logoColor=white" /> 
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-15c213?style=flat-square&logo=Jest&logoColor=white" />
-<img alt="Jest" src="https://img.shields.io/badge/-Vitest-6da13f?style=flat-square&logo=Vitest&logoColor=white" />
+<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6da13f?style=flat-square&logo=Vitest&logoColor=white" />
 <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-007780?style=flat-square&logo=cypress&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-Amazon_Web_Services-orange?style=flat-square&logo=amazon&logoColor=white" />
