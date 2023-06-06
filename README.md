@@ -30,6 +30,9 @@ I am a software developer with solid experience in building maintainable, scalab
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-6F5499?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="Material Design" src="https://img.shields.io/badge/-Material Design-C2E7F4?style=flat-square&logo=material-design&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mariadb&logoColor=white" />
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F9322C?style=flat-square&logo=Laravel&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
