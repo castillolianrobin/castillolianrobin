@@ -7,7 +7,7 @@
 
 <br>
 
-I am a software developer with solid experience in building maintainable, scalable, and reusable **user interfaces**. 
+I am a web developer with solid experience in building maintainable, scalable, and reusable **user interfaces**. 
 
 
 
