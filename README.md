@@ -55,7 +55,7 @@ I am a web developer with solid experience in building maintainable, scalable, a
 
 
 <!-- Chat Room -->
-- <img width="20" src="https://lian-chat-rooms.netlify.app/favicon.ico" alt="Vue logo"> [Chat Room](https://lian-chat-rooms.netlify.app) - Real Time Chat rooms with token-based authentication and websocket implementation using Pusher.io ( Vue 3 + Laravel 10 )   
+- <img width="20" src="https://lian-chat-rooms.netlify.app/favicon.ico" alt="Vue logo"> [Chat Room](https://lian-chat-rooms.netlify.app) - Real Time Chat rooms with token-based authentication and websocket implementation using Pusher.io ( Vue 3 + Laravel 10 )
 
 
 <!-- Sample Pokedex -->
@@ -65,7 +65,7 @@ I am a web developer with solid experience in building maintainable, scalable, a
 <br>
 <br>
 
-> **Short Term Goal** : As of the moment, I am polishing my mastery in front end development until I can completely handle enterprise grade UI that adheres to modern standard while learning to build API on the side.
+> **Short Term Goal** : As of the moment, I am refining my mastery in front end development while gathering experience in back end development by building my personal API for my projects.
 
 <br>
 
