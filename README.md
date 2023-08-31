@@ -46,14 +46,16 @@ I am a web developer with solid experience in building maintainable, scalable, a
 ## Favorite Projects
 
 
+
 <!-- Vue Component Kits -->
 - <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue logo"> [Vue Component Kits](https://component-kits-vue3.netlify.app/) - Dashboard Component kits ( Vue 3 + Typescript ) 
 
 <!-- React Component Kits -->
 - <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React logo"> [React Component Kits](https://component-kits-react18.netlify.app/) - Dashboard Component kits ( React 18 + Typescript )
 
-<!-- Node API Boilerplate -->
-- <img width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" alt="Express logo"> [Express Boilerplate](https://github.com/castillolianrobin/api-boilerplate) - API Boilerplate  ( Express + Typescript ) 
+
+<!-- Chat Room -->
+- <img width="20" src="https://lian-chat-rooms.netlify.app/favicon.ico" alt="Vue logo"> [Chat Room](https://lian-chat-rooms.netlify.app) - Real Time Chat rooms with token-based authentication and websocket implementation using Pusher.io ( Vue 3 + Laravel 10 )   
 
 
 <!-- Sample Pokedex -->
